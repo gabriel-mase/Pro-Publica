@@ -1,0 +1,54 @@
+#loremImpsum {
+    }
+
+h2 {
+    font-family: sans-serif;
+    text-shadow: 1px 3px pink;
+    text-align: center;
+}
+
+#logo {
+    position: relative;
+    height: 220px;
+    width: 200px;
+    opacity: 0.8;
+    right: 500px;
+    top: 100px;
+
+}
+
+.mailTo {
+    float: right;
+
+}
+
+#lotus {
+
+    position: relative;
+    height: 400px;
+    right: -370px;
+    opacity: 0.7
+}
+
+
+h1 {
+
+    top: 340px;
+    text-shadow: 3px 3px pink;
+    text-align: left;
+
+}
+
+h4 {
+    text-shadow: 1px 3px pink;
+
+}
+
+p {
+    font-size: 20px;
+    text-shadow: 0px 1px white;
+}
+
+img {
+    opacity: 0.9;
+}
